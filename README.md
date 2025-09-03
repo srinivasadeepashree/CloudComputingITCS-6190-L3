@@ -4,7 +4,8 @@ Hands-on L3: Containers with Docker
 ## Project Overview
 
 This project demonstrates how to containerize a Python Flask application using Docker and Docker Compose, including a Redis caching service and a PostgreSQL database container. The app counts and displays the number of times it has been accessed. 
-(Screenshots are uploaded 
+
+**(Screenshots are uploaded below)**
 
 ## Execution Steps
 
